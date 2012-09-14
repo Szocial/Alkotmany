@@ -1,10 +1,10 @@
-Alkotmány
+AlkotmÃ¡ny
 =========
 
-Az Emberi és Állami jogok és kötelességek alapvetõ dokumentuma.
+Az Emberi Ã©s Ã¡llami jogok Ã©s kÃ¶telessÃ©gek alapvetÅ‘ dokumentuma.
 
-Emberi jogok és kötelességek
+Emberi jogok Ã©s kÃ¶telessÃ©gek
 ----------------------------
 
-Az Állam jogai és kötelességei
+Az Ã¡llam jogai Ã©s kÃ¶telessÃ©gei
 ------------------------------
