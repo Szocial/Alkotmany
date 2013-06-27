@@ -1,23 +1,186 @@
 ====== Alkotmány ======
 
-Az Emberi és Állami jogok és kötelességek alapvető dokumentuma.
+Az Emberi és Közösségi jogok és kötelességek alapvető dokumentuma.
 
-===== Emberi jogok és kötelességek =====
+===== Bevezető =====
+
+Mi, akik hozzájárulunk ennek az Alkotmánynak az elkészítéséhez és elterjesztéséhez,
+azért hoztuk ezt létre, tartjuk karban, és vesszük figyelembe a mindennapjainkban,
+mert
+- elégedetlenek vagyunk azzal, ahogyan közös ügyeinkben a fejünk felett döntenek, és
+- tenni akarunk azért, hogy az emberek kezükbe vehessék sorsuk alakítását, ezért
+
+az alábbiakat tartjuk fontosnak elmondani az emberek egymáshoz és a Természethez való viszonyáról:
+
+===== Jogok és kötelességek =====
+
+Tekintettel arra, hogy a világon a béke és a jólét alapja az emberek összefogása,
+Tekintettel arra, hogy az emberek összefogásának alapja egymás jogainak kölcsönös elismerése és tiszteletben tartása,
+Tekintettel arra, hogy a hatékony összefogáshoz szükséges a játékszabályok lefektetése és betartása,
+Tekintettel arra, hogy az ember közösségi lény,
+Tekintettel arra, hogy minden közösség jogai az azt alkotó emberek jogaiból erednek,
+Tekintettel arra, hogy az emberek képesek a saját érdekeik átgondolására és képviseletére,
+Tekintettel arra, hogy a közösség döntése bölcsebb az egyén döntésénél,
+Tekintettel arra, hogy az információ megosztása nem jár az információtól való megfosztással,
+Tekintettel arra, hogy a közös döntéseket a jelenlegi módszereknél igazságosabban és hatékonyabban meg lehet hozni,
+Tekintettel arra, hogy a Természet kincseit, különösen annak életközösségeit, a vizeket, a termőföldet, a levegőt és a föld kincseit ajándékként, használatra kaptuk,
+
+Az emberek és csoportok jogairól vallott nézeteinket az alábbiakban nyilvánítjuk ki:
+
+==== Emberi jogok és kötelességek ====
+
+Minden ember egyenlő, és azonos alapvető jogokkal bír.
+Minden embernek és közösségnek kötelessége minden ember jogait elismerni, figyelembe venni, és megvédeni.
+Az emberi jogokat csak más emberek jogainak védelmében, a legkisebb szükséges mértékben szabad korlátozni.
+
+=== Az Ember jogai ===
+
+== Elidegeníthetetlen jogok ==
+
+Minden embernek elidegeníthetetlen joga van
+ - az élethez,
+ - a méltósághoz,
+ - a véleményéhez és világnézetéhez,
+ - a jogai védelméhez.
+
+== Alapvető jogok ==
+
+Mindenkinek joga van
+ - a szabadsághoz,
+ - a személyes biztonsághoz,
+ - a magánélethez, 
+ - a családhoz,
+ - a tudáshoz és információhoz,
+ - a véleménye kimondásához,
+ - a magántulajdonhoz,
+ - az egyenlő bánásmódhoz,
+ - megválasztani, hogy mely közösségekhez kíván, vagy nem kíván tartozni,
+ - a pihenéshez és a szabadidőhöz,
+ - a Természethez.
+
+Senkit sem szabad
+ - kínozni,
+ - rabszolgaságban vagy szolgaságban tartani,
+ - kegyetlen, embertelen vagy lealacsonyító bánásmódnak még büntetésből sem alávetni.
+
+== A jóléthez való jog ==
+
+A rendelkezésre álló erőforrások által lehetővé tett szinten mindenkinek joga van
+ - az élethez szükséges élelmiszerhez, ivóvízhez, tiszta levegőhöz és lakáshoz,
+ - az egészséghez és egészségügyi ellátáshoz,
+ - a segítséghez, ha bajba jut.
+
+Az élethez szükséges élelmiszerből, ivóvizből és levegőből senki nem használhat el többet a szükségleteinél,
+azokat nem sajátíthatja ki, pusztíthatja el, vagy teheti használhatatlanná.
+
+A Természet kincseit senki nem tulajdonolhatja, és mindenkinek kötelessége védeni, felelősséggel használni őket abból a célból, hogy a következő nemzedékeknek jó állapotban adhassuk tovább.
+
+=== Emberi kötelességek ===
+
+Mindenkinek kötelessége
+ - minden más ember jogainak tiszteletben tartása,
+ - az elesettek, önhibájukon kívül bajba jutottak segítése,
+ - saját tudásának és képességeinek folyamatos fejlesztése,
+ - a közösen használt erőforrások, különösen a Természet tiszteletben tartása és védelme,
+ - az aktív részvétel mindazokban a közösségekben, amelynek tagja,
+ - a közösség által ráruházott feladatok, tisztségek jó gazdaként való ellátása, vagy ha erre nem képes, a feladat/tisztség visszaadása
+
+==== A közösségek jogai és kötelességei ====
+
+Minden közösség jogai az azt alkotó emberek jogaiból, kötelességei a közösséget alkotó emberek akaratából erednek.
+
+A közösségeknek jogai és kötelességei vannak a közösséget alkotó emberekkel, más közösségekel és a közösségen kívüli emberekkel szemben.
+
+Az állam a közösségnek egy olyan formája, amely a tagjai számára elengedhetetlen erőforrásokat ellenőriz, amelyekhez azoknak joga van.
+
+A közösség feladatait végső soron annak tagjai látják el.
+Egy közösség akkor működik jól, ha azt tagjai jól építették fel, és elegendő energiát fordítanak a működtetésére.
+Ezért az a közösség, amely kirívó módon nem teljesíti a kötelességeit, elveszti jogát a közösségként való elismeréshez.
+
+=== A közösségek jogai ===
+
+A közösségnek joga van
+ - a közösségként való elismeréshez
+ - vezetőt, tisztségviselőket, megbízottakat (továbbiakban: tisztviselőket) választani, azokat valamilyen feladattal megbízni, és visszahívni
+ - a tagok közös akarata alapján ráruházott jogokat gyakorolni, erőforrásokat ellenőrizni
+ - a közösség tagjainak, illetve erőforrásait használó emberek jogait korlátozni, amennyiben:
+   - ez az emberi jogok, különösen a közösség tagjai jogainak védelme érdekében történik, és
+   - nem korlátoz elidegeníthetetlen jogot, és
+   - a közösség tagjai a korlátozás jogát
+     - közös akarattal,
+     - a korlátozást indokló körülmények és események meghatározása mellett,
+     - a korlátozás elrendeléséhez szükséges folyamatok meghatározásával,
+     - a jogaiban korlátozandó ember védekezését lehetővé módon
+     ruházták a közösségre, és
+   - a jogok korlátozásának szükségessége a korlátozás mértéke által megkövetelt bizonyossággal nyilvánvaló, és
+   - csak olyan mértékben korlátoz jogot, amelynek jóvátételére a közösségnek lehetősége van.
+
+== A közösségek tagsága ==
+
+Minden közösségnek joga van
+ - befogadni a közösség céljaival egyetértő embereket.
+Amennyiben a közösség nem ellenőriz olyan erőforrást, amelyhez az egyénnek joga van,
+ - elutasíthatja a közösség céljaival egyet nem értő jelentkező befogadását,
+ - a tagjai közül kivetheti azt, aki a közösség alapvető céljait veszélyezteti.
+
+=== A közösségek kötelességei ===
+
+A közösség kötelességei:
+ - az emberi jogok elismerése, tiszteletben tartása és védelme, úgy a közösség tagjaival, mint más emberekkel szemben,
+ - más közösségek közösségként való elismerése,
+ - a tagok közös akarata alapján ráruházott jogok gyakorlása a közösség tagjaival, más közösségekkel vagy emberekkel szemben,
+ - az ügyeket előre, közös akarattal, az egyenlő bánásmód igényét figyelembe véve meghatározott módon intézni,
+ - elfogadni más közösségek közbenjárását azokban az ügyekben, amelyekben a közösség és a közbenjáró közösség valamely tagja érintettek, és a közbenjáró közösséget erre a tagjai felhatalmazták
+ - a tisztviselők számára a rájuk bízott feladatok elv;gzéséhez szükséges erőforrásokat biztosítani,
+ - elfogadni ha a tisztviselő visszaadja a megbizatását,
+ - a rá bízott erőforrásokkal jó gazdaként bánni.
 
 
-==== Az Ember jogai ====
+===== Viszonyok és folyamatok =====
 
-=== Tisztességes létviszonyok ===
+Tekintettel arra, hogy a Természet törvényei minden élő és élettelen dologra, annak erről alkotott esetleges véleményétől függetlenül érvényesek,
+és különös tekintettel az alábbi törvényszerűségekre:
+ - a Föld erőforrásai végesek,
+ - az Ember a Természet szerves része,
+ - az emberek túlnyomórészt az erkölcsi normáknak megfelelően viselkednek, de a jogtalan előny szerzésének lehetősége néhányakat letéríthet a helyes útról,
+ - a csillapítatlan pozitív visszacsatolás szétveti azt a rendszert, amelyben keletkezik,
+ - létezik módszer a közösség tagjai számára legelfogadhatóbb döntés kiválasztására, amelynek neve Condorcet módszer,
+ - az egyes ember információfeldolgozó képessége véges, amely megmutatkozik abban is, hogy véges méretű közösségekben tud hatékonyan együttműködni,
 
-== Alapvető jövedelem ==
+az alábbi szabályokban látjuk az önmagával és a Természettel békés, teremtő viszonyban élő emberi közösség megteremtésének zálogát:
 
+ - az emberi faj fennmaradása, és ezért a Természet védelme előnyt kell élvezzen minden más szempont felett, az elidegeníthetetlen emberi jogok kivételével,
+ - az emberi közösségek olyan alapközösségekből épüljenek fel, amelyek méretükből adódóan képesek a hatékony együttműködésre,
+ - a nagy méretű közösségek működtetésében különösen el kell kerülni a pozitív visszacsatolásos folyamatokat, ezért
+   - a döntéshozatal folyamán
+     - a döntéseket minden érdekelt véleményét figyelembe véve, a fontos döntéseket Condorcet módszerrel, közvetlen szavazással kell meghozni,
+     - a döntéseket olyan alapossággal kell előkészíteni, amennyire azt a rendelkezésre álló idő lehetővé teszi,
+     - a megfelelő jel-zaj viszony érdekében:
+       - a csoport döntési alternatívát csak elegendően nagy tagszámú közösségtől, vagy arra felhatalmazott tisztviselőtől fogadjon be,
+       - a közösség elegendő mennyiségű tagját tartalmazó közösségtől érkező döntési alternatívát a közösség köteles befogadni,
+       - a befogadott döntési alternatívák érdemi elemzéséhez és pontosításához az alternatívát benyújtó csoport számára erőforrásokat kell biztosítani,
+     - a döntések előkészítésekor vizsgálni kell, hogy azok
+       - hozzájárulnak-e pozitív visszacsatolásos folyamatokhoz, vagy 
+       - lehetővé teszik-e a visszaéléseket, különösen a koncentrált erőforrásokkal vagy jogokkal felruházott tisztségviselők számára,
+     - a döntések előkészítésekor biztosítani kell azt, hogy a döntéshez szükséges információk, mindenkihez eljussanak, különösen
+       - a döntés emberi jogokra és a Természetre gyakorolt hatásai,
+       - a döntés végrehajtásához szükséges erőforrások, és azok biztosításának javasolt módja,
+       - az egyes döntési lehetőségek összehasonlítása,
+       - a döntés által bármilyen módon érintettek álláspontja.
+     - a döntéseket úgy kell előkészíteni, hogy a választható lehetőségek tartalmazzanak minden ésszerű alternatívát, és a felkínált alternatívák mennyisége áttekinthető legyen,
+     - lehetővé kell tenni, hogy aki egy kérdésben nem érzi megfelelően informáltnak magát, az saját elhatározása alapján másra ruházza át a kérdésben a szavazazatát, vagy ne szavazzon,
+   - a működés folyamán
+     - a csoport arra kijelölt tisztségviselőinek feladata legyen
+       - a csoport folyamatainak vizsgálata abból a szempontból, hogy
+         - hozzájárulnak-e pozitív visszacsatoláshoz vagy
+         - lehetővé tesznek-e visszaéléseket,
+         - gátolják-e a döntéshozatallal kapcsolatos szempontok érvényesülését
+       - a tisztviselők tevékenységének ellenőrzése
+       - az ilyenre utaló, bárhonnan érkező jelzések érdemi vizsgálata
+       - javaslattétel a folyamatok javítására
+     - a közösség által kezelt minden nem személyes adat könnyen elérhető legyen bárki számára,
+     - lehetőség legyen a tisztviselők döntéseinek felülbírálatát kérni, ahol a fontos ügyekben a végső felülvizsgálati fórum a közösség egésze,
+     - a tisztviselők saját emberi jogaikkal (különösen a tulajdonhoz és a szabadsághoz való jogukkal) felelnek a szabályok betartásáért, és mások jogainak tiszteletben tartásáért,
+     - a tisztviselők kérhetik, a klönösen nehéz és nem egyértelmű ügyekben kötelesek kérni a közösség döntését, amely azt fontos döntésként kezeli.
 
-==== Emberi kötelességek ====
-
-=== Munkához való jog ===
-
-=== Tanuláshoz való jog ===
-
-
-===== Az Allam jogai és kötelességei =====
 
